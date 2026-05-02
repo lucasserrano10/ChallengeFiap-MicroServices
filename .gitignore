@@ -1,0 +1,115 @@
+# ===============================
+# JAVA
+# ===============================
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.ctxt
+.mtj.tmp/
+hs_err_pid*
+
+# ===============================
+# MAVEN
+# ===============================
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# ===============================
+# INTELLIJ IDEA
+# ===============================
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+.idea_modules/
+
+# ===============================
+# ECLIPSE
+# ===============================
+.classpath
+.project
+.settings/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.recommenders
+
+# ===============================
+# VSCODE
+# ===============================
+.vscode/
+*.code-workspace
+
+# ===============================
+# NETBEANS
+# ===============================
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# ===============================
+# SPRING BOOT
+# ===============================
+spring-boot-devtools.properties
+application-local.properties
+
+# ===============================
+# DATABASE
+# ===============================
+*.db
+*.sqlite
+*.h2.db
+
+# ===============================
+# LOGS
+# ===============================
+logs/
+*.log
+log/
+
+# ===============================
+# OS
+# ===============================
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# ===============================
+# OUTROS
+# ===============================
+*.orig
+*.rej
+.gradle/
+gradle/
+gradlew
+gradlew.bat
