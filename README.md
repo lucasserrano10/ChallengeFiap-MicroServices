@@ -183,7 +183,6 @@ cd microservices
 
 - **[QUICK_START.md](microservices/QUICK_START.md)** - Guia de execução rápida (5 minutos)
 - **[README_MICROSERVICES.md](microservices/README_MICROSERVICES.md)** - Documentação completa
-- **[ENTREGA_FINAL.md](microservices/ENTREGA_FINAL.md)** - Resumo da entrega acadêmica
 
 ---
 
